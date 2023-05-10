@@ -1,0 +1,14 @@
+.header {
+  background-color: #1976D2;
+  padding: 5px 0 5px 40px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.headerTitle {
+  margin: 0;
+  color: #fff;
+  font-size: 24px;
+}
+
