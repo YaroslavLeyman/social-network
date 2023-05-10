@@ -1,6 +1,6 @@
 # Проект социальная сеть
 
-[Посмотреть](https://github.com/facebook/create-react-app).
+[Посмотреть](https://YaroslavLeyman.github.io/social-network/)
 
 ### Протестировать
 
